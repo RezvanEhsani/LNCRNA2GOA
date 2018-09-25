@@ -133,7 +133,6 @@ Prediction_Function<-function( GeneID, Onto, Method ){
 			}
 	else print("could not find anything!")
 
-}
-Prediction_Function( GeneID="ENSG0000011111", Onto="BP", Method="combine" )
+}						
 # Example
 # Prediction_Function( GeneID="ENSG00000228630", Onto="BP", Method="combine" )
